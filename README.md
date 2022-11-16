@@ -8,6 +8,4 @@ At the age of 22, and having completed my Journalism degree, I realized that I c
 
 I consider myself a very outgoing person with a strong desire to keep learning.
 
-WHAT DO I KNOW?
-
-I've been developing some nice projects with HTML5 CSS3 SASS JavaScript Vue ReactGit Node.js MongoDB Docker Jest
+- 💻 I've been developing some nice projects with HTML5 CSS3 SASS JavaScript Vue ReactGit Node.js MongoDB Docker Jest
